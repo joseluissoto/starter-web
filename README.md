@@ -10,6 +10,6 @@ Intro
 
 Sample website with plenty of files for demos
 
-## Unstaged change
+## Unstaged changes
 
 This is an unstaged change
